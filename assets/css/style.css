@@ -3,3 +3,24 @@
     padding: 0;
     box-sizing:border-box
 }
+
+.main{
+    height: 100vh;
+    width: 100vw;
+    background-color: #262626;
+    color: #242424;
+}
+
+.title{
+    background-color: rgb(247, 201, 233);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    border-color: #ffffff;
+
+    
+    height: 100vh;
+    width: 100vw;
+    background-color: #262626;
+    color: #242424;
+}
